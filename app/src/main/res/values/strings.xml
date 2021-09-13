@@ -11,4 +11,6 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="Hello_World">Hello World</string>
     <string name="Second_message">Goodbye World</string>
+    <string name="Topright">Report</string>
+    <string name="Hard">Hard Mode</string>
 </resources>
